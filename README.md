@@ -4,7 +4,7 @@
 
 🎓 B.Tech Information Technology — IMSEC '27  
 🚀 Building scalable and user-focused web applications  
-🧠 200+ LeetCode Problems | Problem Solving Enthusiast
+🧠 250+ LeetCode Problems | Problem Solving Enthusiast
 
 ---
 
