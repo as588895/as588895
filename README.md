@@ -150,13 +150,21 @@ A modern weather forecasting application providing real-time weather information
 
 ---
 
-# 📊 GitHub Activity
+## 📊 GitHub Activity
 
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=as588895&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=as588895&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    alt="Aman's GitHub Stats"
+  />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=as588895&layout=compact&theme=tokyonight&hide_border=true)
-
----
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=as588895&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    alt="Aman's Top Languages"
+  />
+</p>
 
 # 🤝 Connect With Me
 
