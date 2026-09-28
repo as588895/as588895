@@ -153,17 +153,25 @@ A modern weather forecasting application providing real-time weather information
 ## 📊 GitHub Activity
 
 <p align="center">
+
   <img
-    src="https://github-readme-stats.vercel.app/api?username=as588895&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    alt="Aman's GitHub Stats"
+    src="https://streak-stats.demolab.com/?user=as588895&theme=tokyonight&hide_border=true"
+    alt="Aman's GitHub Streak"
   />
+
 </p>
 
+---
+
+## 🏆 GitHub Trophies
+
 <p align="center">
+
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=as588895&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    alt="Aman's Top Languages"
+    src="https://github-profile-trophy.vercel.app/?username=as588895&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"
+    alt="Aman's GitHub Trophies"
   />
+
 </p>
 
 # 🤝 Connect With Me
