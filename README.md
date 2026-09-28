@@ -129,9 +129,10 @@ A modern weather forecasting application providing real-time weather information
 
 # 🧠 Problem Solving
 
-- 🟢 **200+ LeetCode Problems**
+- 🟢 **250+ LeetCode Problems**
 - 🏆 **50 Days LeetCode Badge**
 - 🏆 **100 Days LeetCode Badge**
+- 🏆 **200 Days LeetCode Badge**
 - ⭐ **HackerRank 3★**
 - 💻 Practicing DSA using **Java**
 
