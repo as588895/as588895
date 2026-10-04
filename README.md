@@ -68,9 +68,9 @@ A full-stack travel and accommodation booking platform for discovering stays, ma
 - 🔑 Password change / reset functionality
 - 📱 Responsive UI
 
-**Tech:** Node.js • Express.js • MongoDB • EJS • Bootstrap • Passport.js • Cloudinary • Mapbox • Razorpay
+**Tech:** React.js • Vite • Node.js • Express.js • MongoDB • EJS • Bootstrap • Passport.js • Cloudinary • Mapbox • Razorpay
 
-🔗 [Live Demo](https://wandernest-travel-accommodation-platform.onrender.com/)
+🔗 [Live Demo](https://wandernest-7dn2.onrender.com/)
 
 🔗 [GitHub Repository](https://github.com/as588895/WanderNest-Travel-Accommodation-Platform)
 
